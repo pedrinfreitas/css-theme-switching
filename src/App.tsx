@@ -73,7 +73,10 @@ export function App() {
 
         <Footer>
           <p>
-            Made with love by <a href="http://bio.link/timonwa">Timonwa</a>
+            Made with love by{" "}
+            <a href="https://github.com/pedrinfreitas/css-theme-switching">
+              Pedro
+            </a>
           </p>
         </Footer>
       </div>
